@@ -1,0 +1,442 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",5 канал UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/945/index.m3u8
+#EXTINF:0 tvg-rec="3",FilmBox
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/948/index.m3u8
+#EXTINF:0 tvg-rec="0",24 Канал
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/951/index.m3u8
+#EXTINF:0 tvg-rec="3",ATR
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/952/index.m3u8
+#EXTINF:0 tvg-rec="3",Lale
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/953/index.m3u8
+#EXTINF:0 tvg-rec="3",Надiя ТВ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/956/index.m3u8
+#EXTINF:0 tvg-rec="3",Перший Захiдний
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/957/index.m3u8
+#EXTINF:0 tvg-rec="0",UA:ЛЬВIВ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/958/index.m3u8
+#EXTINF:0 tvg-rec="3",BBB TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/959/index.m3u8
+#EXTINF:0 tvg-rec="3",Центральный канал
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/963/index.m3u8
+#EXTINF:0 tvg-rec="3",Черноморская ТРК
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/965/index.m3u8
+#EXTINF:0 tvg-rec="0",112 Україна
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/924/index.m3u8
+#EXTINF:0 tvg-rec="3",EU Music
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/925/index.m3u8
+#EXTINF:0 tvg-rec="3",NewsOne
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/926/index.m3u8
+#EXTINF:0 tvg-rec="3",Еспресо TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/927/index.m3u8
+#EXTINF:0 tvg-rec="3",Мега
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/929/index.m3u8
+#EXTINF:0 tvg-rec="3",К2
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/930/index.m3u8
+#EXTINF:0 tvg-rec="3",К1
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/931/index.m3u8
+#EXTINF:0 tvg-rec="3",Квартал ТВ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/932/index.m3u8
+#EXTINF:0 tvg-rec="0",Enter-фільм
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/933/index.m3u8
+#EXTINF:0 tvg-rec="3",Новий Канал
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/935/index.m3u8
+#EXTINF:0 tvg-rec="3",НТН
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/936/index.m3u8
+#EXTINF:0 tvg-rec="3",Інтер
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/937/index.m3u8
+#EXTINF:0 tvg-rec="3",Пiксель ТВ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/938/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый городской (Кривой Рог)
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/939/index.m3u8
+#EXTINF:0 tvg-rec="3",ID Fashion
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/940/index.m3u8
+#EXTINF:0 tvg-rec="3",Культура
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/941/index.m3u8
+#EXTINF:0 tvg-rec="3",Телевсесвiт
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/942/index.m3u8
+#EXTINF:0 tvg-rec="3",Медiаiнформ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/943/index.m3u8
+#EXTINF:0 tvg-rec="3",Skrypin.UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/944/index.m3u8
+#EXTINF:0 tvg-rec="3",ТРК Алекс
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/967/index.m3u8
+#EXTINF:0 tvg-rec="3",4ever Music
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/970/index.m3u8
+#EXTINF:0 tvg-rec="3",Глас
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/972/index.m3u8
+#EXTINF:0 tvg-rec="3",Правда Тут
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/973/index.m3u8
+#EXTINF:0 tvg-rec="3",Тернопіль 1
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/975/index.m3u8
+#EXTINF:0 tvg-rec="3",Рада
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/976/index.m3u8
+#EXTINF:0 tvg-rec="3",MAXXI TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/977/index.m3u8
+#EXTINF:0 tvg-rec="3",News Network
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/978/index.m3u8
+#EXTINF:0 tvg-rec="3",Южная волна
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/979/index.m3u8
+#EXTINF:0 tvg-rec="3",Первый городской
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/981/index.m3u8
+#EXTINF:0 tvg-rec="3",СК1
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/982/index.m3u8
+#EXTINF:0 tvg-rec="3",Перший дiловий
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/985/index.m3u8
+#EXTINF:0 tvg-rec="3",1+1 International
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/987/index.m3u8
+#EXTINF:0 tvg-rec="3",Громадське
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/988/index.m3u8
+#EXTINF:0 tvg-rec="3",BOLT
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/991/index.m3u8
+#EXTINF:0 tvg-rec="3",Star Cinema
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/992/index.m3u8
+#EXTINF:0 tvg-rec="3",Чернiвецький Промiнь
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1004/index.m3u8
+#EXTINF:0 tvg-rec="3",UA:Перший
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1016/index.m3u8
+#EXTINF:0 tvg-rec="3",UA:Крым
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1017/index.m3u8
+#EXTINF:0 tvg-rec="3",MostVideo.TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1027/index.m3u8
+#EXTINF:0 tvg-rec="3",OBOZ TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1028/index.m3u8
+#EXTINF:0 tvg-rec="3",TV5
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1030/index.m3u8
+#EXTINF:0 tvg-rec="3",Star Family
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1042/index.m3u8
+#EXTINF:0 tvg-rec="3",Интер+
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1047/index.m3u8
+#EXTINF:0 tvg-rec="3",O-TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1055/index.m3u8
+#EXTINF:0 tvg-rec="3",Телеканал Рибалка
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1058/index.m3u8
+#EXTINF:0 tvg-rec="3",1+1
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/994/index.m3u8
+#EXTINF:0 tvg-rec="3",2+2
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/995/index.m3u8
+#EXTINF:0 tvg-rec="3",UKRAINE 1
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/997/index.m3u8
+#EXTINF:0 tvg-rec="3",Бiгудi
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/989/index.m3u8
+#EXTINF:0 tvg-rec="3",НТА
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/990/index.m3u8
+#EXTINF:0 tvg-rec="3",ТВА
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/998/index.m3u8
+#EXTINF:0 tvg-rec="3",Вiнтаж ТВ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/999/index.m3u8
+#EXTINF:0 tvg-rec="3",ZOOM
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1000/index.m3u8
+#EXTINF:0 tvg-rec="3",ПлюсПлюс
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1002/index.m3u8
+#EXTINF:0 tvg-rec="3",Малятко ТВ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1003/index.m3u8
+#EXTINF:0 tvg-rec="3",Галичина
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1005/index.m3u8
+#EXTINF:0 tvg-rec="3",Еко TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1006/index.m3u8
+#EXTINF:0 tvg-rec="3",ZIK HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1007/index.m3u8
+#EXTINF:0 tvg-rec="3",ZIK
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1008/index.m3u8
+#EXTINF:0 tvg-rec="3",ТЕТ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1009/index.m3u8
+#EXTINF:0 tvg-rec="3",Україна
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1011/index.m3u8
+#EXTINF:0 tvg-rec="3",HDFASHION&LifeStyle
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1012/index.m3u8
+#EXTINF:0 tvg-rec="3",Сонце
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1013/index.m3u8
+#EXTINF:0 tvg-rec="3",NLO TV2
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1014/index.m3u8
+#EXTINF:0 tvg-rec="3",Прямий HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1015/index.m3u8
+#EXTINF:0 tvg-rec="3",КРТ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1019/index.m3u8
+#EXTINF:0 tvg-rec="3",ЧП.INFO
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1020/index.m3u8
+#EXTINF:0 tvg-rec="3",Ескулап TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1022/index.m3u8
+#EXTINF:0 tvg-rec="3",УНІАН
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1023/index.m3u8
+#EXTINF:0 tvg-rec="3",UA|TV HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1024/index.m3u8
+#EXTINF:0 tvg-rec="3",36.6 TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1025/index.m3u8
+#EXTINF:0 tvg-rec="3",Milady Television
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1026/index.m3u8
+#EXTINF:0 tvg-rec="3",BOUTIQUE TV
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1029/index.m3u8
+#EXTINF:0 tvg-rec="3",NLO TV1
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1032/index.m3u8
+#EXTINF:0 tvg-rec="3",7 канал
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1035/index.m3u8
+#EXTINF:0 tvg-rec="3",Music Box UA HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1036/index.m3u8
+#EXTINF:0 tvg-rec="3",ТРК Круг
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1040/index.m3u8
+#EXTINF:0 tvg-rec="3",ТРК Київ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1045/index.m3u8
+#EXTINF:0 tvg-rec="3",8 Канал UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1046/index.m3u8
+#EXTINF:0 tvg-rec="3",Чернiвцi
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1072/index.m3u8
+#EXTINF:0 tvg-rec="3",24 Канал HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1063/index.m3u8
+#EXTINF:0 tvg-rec="3",4 канал
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/1039/index.m3u8
+#EXTINF:0 tvg-rec="3",UA:Донбас
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/5038/index.m3u8
+#EXTINF:0 tvg-rec="3",Мариупольское ТВ
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/5039/index.m3u8
+#EXTINF:0 tvg-rec="3",33 канал
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/5040/index.m3u8
+#EXTINF:0 tvg-rec="3",Тернопіль 1
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/5041/index.m3u8
+#EXTINF:0 tvg-rec="3",Перший Західний
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/5042/index.m3u8
+#EXTINF:0 tvg-rec="3",Vintage TV UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6009/index.m3u8
+#EXTINF:0 tvg-rec="3",ICTV UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6302/index.m3u8
+#EXTINF:0 tvg-rec="3",СТБ UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6304/index.m3u8
+#EXTINF:0 tvg-rec="3",Интер UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6305/index.m3u8
+#EXTINF:0 tvg-rec="3",АТР UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6306/index.m3u8
+#EXTINF:0 tvg-rec="3",XSPORT UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6309/index.m3u8
+#EXTINF:0 tvg-rec="3",1+1 UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6310/index.m3u8
+#EXTINF:0 tvg-rec="3",Эспресо TV UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6311/index.m3u8
+#EXTINF:0 tvg-rec="3",Пиксель UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6312/index.m3u8
+#EXTINF:0 tvg-rec="3",Спорт-1 UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6313/index.m3u8
+#EXTINF:0 tvg-rec="3",Спорт-2 UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6314/index.m3u8
+#EXTINF:0 tvg-rec="3",112 Украина HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6315/index.m3u8
+#EXTINF:0 tvg-rec="3",1+1 International UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6316/index.m3u8
+#EXTINF:0 tvg-rec="3",1+1 HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6317/index.m3u8
+#EXTINF:0 tvg-rec="3",ТРК Украина HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6318/index.m3u8
+#EXTINF:0 tvg-rec="3",Перший Т2 UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6319/index.m3u8
+#EXTINF:0 tvg-rec="3",Индиго UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6320/index.m3u8
+#EXTINF:0 tvg-rec="3",Эспресо ТВ HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6321/index.m3u8
+#EXTINF:0 tvg-rec="3",Болт HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6322/index.m3u8
+#EXTINF:0 tvg-rec="3",Lale HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6323/index.m3u8
+#EXTINF:0 tvg-rec="3",UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6324/index.m3u8
+#EXTINF:0 tvg-rec="3",Star Cinema HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6325/index.m3u8
+#EXTINF:0 tvg-rec="3",Star Family HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6326/index.m3u8
+#EXTINF:0 tvg-rec="3",8 канал HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6327/index.m3u8
+#EXTINF:0 tvg-rec="3",4 канал HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6328/index.m3u8
+#EXTINF:0 tvg-rec="3",1+1 International UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6329/index.m3u8
+#EXTINF:0 tvg-rec="3",Бігуді UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6330/index.m3u8
+#EXTINF:0 tvg-rec="3",XSPORT UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6331/index.m3u8
+#EXTINF:0 tvg-rec="3",NIKI Kids HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6332/index.m3u8
+#EXTINF:0 tvg-rec="3",NIKI Junior HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6333/index.m3u8
+#EXTINF:0 tvg-rec="3",М1 HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6334/index.m3u8
+#EXTINF:0 tvg-rec="3",М2 HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6335/index.m3u8
+#EXTINF:0 tvg-rec="3",PRO Все UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6336/index.m3u8
+#EXTINF:0 tvg-rec="3",Lale UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6337/index.m3u8
+#EXTINF:0 tvg-rec="3",Максi ТВ UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6338/index.m3u8
+#EXTINF:0 tvg-rec="3",ICTV UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6339/index.m3u8
+#EXTINF:0 tvg-rec="3",Новий канал UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6340/index.m3u8
+#EXTINF:0 tvg-rec="3",Кус Кус HD UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6341/index.m3u8
+#EXTINF:0 tvg-rec="3",2+2 UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6342/index.m3u8
+#EXTINF:0 tvg-rec="3",НЛО UA
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6343/index.m3u8
+#EXTINF:0 tvg-rec="3",НЛО ТВ HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6372/index.m3u8
+#EXTINF:0 tvg-rec="3",Индиго ТВ HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6374/index.m3u8
+#EXTINF:0 tvg-rec="3",ОЦЕ HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6375/index.m3u8
+#EXTINF:0 tvg-rec="3",UA:Перший HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6376/index.m3u8
+#EXTINF:0 tvg-rec="3",ТЕТ HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6377/index.m3u8
+#EXTINF:0 tvg-rec="3",2+2 HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6378/index.m3u8
+#EXTINF:0 tvg-rec="3",ПлюсПлюс HD
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6379/index.m3u8
+#EXTINF:0 tvg-rec="3",Оце
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/6380/index.m3u8
+#EXTINF:0 tvg-rec="3",Еспресо ТВ HD UA orig
+#EXTGRP:Украина | Українські
+http://vasilius.akciatv.ru/iptv/AQHT8KZ5XQ2VQX/9073/index.m3u8
