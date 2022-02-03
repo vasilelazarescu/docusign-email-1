@@ -1,0 +1,454 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",Хоккей 1
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/7360/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей 2
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/7361/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей 3
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/7362/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей 4
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/7363/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей 5
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/7364/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Премьер FHD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2414/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +2
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6012/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +4
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6023/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч +8
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6052/index.m3u8
+#EXTINF:0 tvg-rec="3",Super Tennis HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6079/index.m3u8
+#EXTINF:0 tvg-rec="7",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/220/index.m3u8
+#EXTINF:0 tvg-rec="7",МАТЧ ПРЕМЬЕР
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/531/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! FHD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2413/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/212/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/535/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 1 FHD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2407/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/222/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ! Футбол 1 HD 50 orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5072/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/124/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 2 FHD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2420/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/211/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/530/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 FHD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2408/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/206/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Футбол 3 HD 50 orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5071/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/522/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Игра FHD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2406/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/225/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/529/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/207/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/528/index.m3u8
+#EXTINF:0 tvg-rec="7",МАТЧ! СТРАНА
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/107/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Планета
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/123/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Боец
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/150/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 4K
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/4004/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/228/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5075/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/141/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 2 North-East HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/234/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 North-East HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5076/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5069/index.m3u8
+#EXTINF:0 tvg-rec="0",Сетанта Спорт + HD UA
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10040/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5070/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports Ukraine HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5068/index.m3u8
+#EXTINF:0 tvg-rec="7",Viasat Sport HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2007/index.m3u8
+#EXTINF:0 tvg-rec="3",VIASAT Sport HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5065/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Fotboll HD SK orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5078/index.m3u8
+#EXTINF:0 tvg-rec="3",UFC HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5067/index.m3u8
+#EXTINF:0 tvg-rec="7",UFC ТВ
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2000/index.m3u8
+#EXTINF:0 tvg-rec="3",XSPORT HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/996/index.m3u8
+#EXTINF:0 tvg-rec="3",Xsport HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5077/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский Экстрим UHD 4K
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5003/index.m3u8
+#EXTINF:0 tvg-rec="3",Russian Extreme HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2077/index.m3u8
+#EXTINF:0 tvg-rec="7",Телеканал КХЛ HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/215/index.m3u8
+#EXTINF:0 tvg-rec="3",КХЛ FHD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2403/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/519/index.m3u8
+#EXTINF:0 tvg-rec="3",FAST&FUN BOX HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1018/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2146/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2145/index.m3u8
+#EXTINF:0 tvg-rec="7",Extreme Sports
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/144/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 1
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1109/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 1 HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5073/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 2
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1110/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 2 HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5074/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 3 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/290/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол 3 HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5083/index.m3u8
+#EXTINF:0 tvg-rec="7",Viasat Sport
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/160/index.m3u8
+#EXTINF:0 tvg-rec="3",Fuel TV HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2396/index.m3u8
+#EXTINF:0 tvg-rec="7",M-1 Global TV
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/843/index.m3u8
+#EXTINF:0 tvg-rec="7",Бокс ТВ
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/870/index.m3u8
+#EXTINF:0 tvg-rec="3",СТАРТ
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2154/index.m3u8
+#EXTINF:0 tvg-rec="3",Телеканал Футбол
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5050/index.m3u8
+#EXTINF:0 tvg-rec="7",Драйв
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2021/index.m3u8
+#EXTINF:0 tvg-rec="7",ЖИВИ!
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/738/index.m3u8
+#EXTINF:0 tvg-rec="3",Е HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5035/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6384/index.m3u8
+#EXTINF:0 tvg-rec="3",UFC FIGHT PASS
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6554/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч Арена HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9010/index.m3u8
+#EXTINF:0 tvg-rec="3",Русский экстрим HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9042/index.m3u8
+#EXTINF:0 tvg-rec="3",Конный мир HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9055/index.m3u8
+#EXTINF:0 tvg-rec="3",СТАРТ HD orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9083/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta HD KZ orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9094/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ! СТРАНА orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9157/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч! Боец orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9159/index.m3u8
+#EXTINF:0 tvg-rec="3",Extreme Sports orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9160/index.m3u8
+#EXTINF:0 tvg-rec="3",M-1 Global TV orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9161/index.m3u8
+#EXTINF:0 tvg-rec="3",Бокс ТВ orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9162/index.m3u8
+#EXTINF:0 tvg-rec="3",Драйв orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9163/index.m3u8
+#EXTINF:0 tvg-rec="3",ЖИВИ! orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9164/index.m3u8
+#EXTINF:0 tvg-rec="3",МАТЧ ПРЕМЬЕР orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9246/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 1 orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9247/index.m3u8
+#EXTINF:0 tvg-rec="3",Моторспорт ТВ orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9248/index.m3u8
+#EXTINF:0 tvg-rec="3",Viasat Sport orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9249/index.m3u8
+#EXTINF:0 tvg-rec="3",КХЛ ТВ orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9250/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол orig
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9251/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккейный HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10013/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч Игра HD 50
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10014/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! Футбол 1 HD 50
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10015/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч Футбол 3 HD 50
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10016/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! HD 50
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10020/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ Премьер HD 50
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10021/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч футбол 2 HD 50
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10027/index.m3u8
+#EXTINF:0 tvg-rec="0",КХЛ HD 50
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10028/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Баскетбола
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10033/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккейный HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10039/index.m3u8
+#EXTINF:0 tvg-rec="7",Спортивный HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10057/index.m3u8
+#EXTINF:0 tvg-rec="7",Футбольный HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10058/index.m3u8
+#EXTINF:0 tvg-rec="7",MUTV UK
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10078/index.m3u8
+#EXTINF:0 tvg-rec="7",Sky Sport F1 FHD DE
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/10079/index.m3u8
+#EXTINF:0 tvg-rec="7",WWE Russian
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11056/index.m3u8
+#EXTINF:0 tvg-rec="0",SKY HIGH FIGHT + HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15097/index.m3u8
+#EXTINF:0 tvg-rec="0",Живи Активно HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15143/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 10 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15149/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 11 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15150/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 12 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15151/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 13 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15152/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 14 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15153/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 15 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15154/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 16 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15155/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 17 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15156/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 18 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15157/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 19 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15158/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 20 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15159/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 21 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15160/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 22 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15161/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 23 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15162/index.m3u8
+#EXTINF:0 tvg-rec="0",Наш Спорт 24 HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15163/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport_Gold_HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15167/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Eurasia HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15183/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Eurasia+
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15184/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport Gold HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15226/index.m3u8
+#EXTINF:0 tvg-rec="0",Fastnfunbox
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15231/index.m3u8
+#EXTINF:0 tvg-rec="0",Fightbox
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15232/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 1 Baltica
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15235/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 2 Baltic
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15236/index.m3u8
+#EXTINF:0 tvg-rec="0",QSport HD KG
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15238/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +4 (Алтай, Дианэт)
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15289/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +2 (Уфа)
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15307/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Липецк)
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15314/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +7 (Владивосток)
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15335/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +4 (Томск)
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15387/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Белгород)
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15409/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +3 (Омск)
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15432/index.m3u8
+#EXTINF:0 tvg-rec="0",МАТЧ! +0 (Элиста)
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15448/index.m3u8
+#EXTINF:0 tvg-rec="0",Red Bull TV
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/16039/index.m3u8
+#EXTINF:0 tvg-rec="0",Red Bull TV HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/16040/index.m3u8
+#EXTINF:0 tvg-rec="0",Insport HD
+#EXTGRP:Спорт
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/16071/index.m3u8
