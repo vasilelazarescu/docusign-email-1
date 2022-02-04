@@ -1,0 +1,298 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="7",Nickelodeon HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/223/index.m3u8
+#EXTINF:0 tvg-rec="7",СТС Kids HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2001/index.m3u8
+#EXTINF:0 tvg-rec="7",Tiji TV
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/108/index.m3u8
+#EXTINF:0 tvg-rec="7",Gulli
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/109/index.m3u8
+#EXTINF:0 tvg-rec="7",Nick Jr
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/114/index.m3u8
+#EXTINF:0 tvg-rec="7",Nickelodeon
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/541/index.m3u8
+#EXTINF:0 tvg-rec="7",Disney
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/524/index.m3u8
+#EXTINF:0 tvg-rec="7",Детский мир
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/543/index.m3u8
+#EXTINF:0 tvg-rec="7",Jim Jam
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/138/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoon Network
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/143/index.m3u8
+#EXTINF:0 tvg-rec="7",Карусель
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/156/index.m3u8
+#EXTINF:0 tvg-rec="7",Ani
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/129/index.m3u8
+#EXTINF:0 tvg-rec="7",Мульт
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/909/index.m3u8
+#EXTINF:0 tvg-rec="3",Мульт HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/240/index.m3u8
+#EXTINF:0 tvg-rec="7",Boomerang
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/723/index.m3u8
+#EXTINF:0 tvg-rec="7",О!
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/727/index.m3u8
+#EXTINF:0 tvg-rec="7",Уникум
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/730/index.m3u8
+#EXTINF:0 tvg-rec="7",В гостях у сказки
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/737/index.m3u8
+#EXTINF:0 tvg-rec="3",Карусель (+3)
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/740/index.m3u8
+#EXTINF:0 tvg-rec="7",Мультимузыка
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/749/index.m3u8
+#EXTINF:0 tvg-rec="3",Duck TV
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1031/index.m3u8
+#EXTINF:0 tvg-rec="3",Baby TV
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2084/index.m3u8
+#EXTINF:0 tvg-rec="3",Da Vinci Kids
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1033/index.m3u8
+#EXTINF:0 tvg-rec="3",Da Vinci Kids UA
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1034/index.m3u8
+#EXTINF:0 tvg-rec="3",Малыш
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1041/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon EN
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/1069/index.m3u8
+#EXTINF:0 tvg-rec="7",NickToons
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/849/index.m3u8
+#EXTINF:0 tvg-rec="7",Радость моя
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/853/index.m3u8
+#EXTINF:0 tvg-rec="3",Рыжий
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2052/index.m3u8
+#EXTINF:0 tvg-rec="3",Капитан Фантастика
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2098/index.m3u8
+#EXTINF:0 tvg-rec="3",Тамыр
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2109/index.m3u8
+#EXTINF:0 tvg-rec="3",Смайлик ТВ
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/2157/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультиландия
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5055/index.m3u8
+#EXTINF:0 tvg-rec="3",Уникум
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/5056/index.m3u8
+#EXTINF:0 tvg-rec="7",Мульт HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/921/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon HD orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9015/index.m3u8
+#EXTINF:0 tvg-rec="3",Мульт HD orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9037/index.m3u8
+#EXTINF:0 tvg-rec="3",Уникум HD orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9077/index.m3u8
+#EXTINF:0 tvg-rec="3",СТС Kids HD orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9063/index.m3u8
+#EXTINF:0 tvg-rec="3",Tiji Tv orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9180/index.m3u8
+#EXTINF:0 tvg-rec="3",Gulli orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9181/index.m3u8
+#EXTINF:0 tvg-rec="3",Nick Jr orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9182/index.m3u8
+#EXTINF:0 tvg-rec="3",Disney orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9183/index.m3u8
+#EXTINF:0 tvg-rec="3",Детский мир orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9184/index.m3u8
+#EXTINF:0 tvg-rec="3",Jim jam orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9185/index.m3u8
+#EXTINF:0 tvg-rec="3",Карусель orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9186/index.m3u8
+#EXTINF:0 tvg-rec="3",Ani orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9187/index.m3u8
+#EXTINF:0 tvg-rec="3",Мульт orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9188/index.m3u8
+#EXTINF:0 tvg-rec="3",Boomerang orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9189/index.m3u8
+#EXTINF:0 tvg-rec="3",О! orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9190/index.m3u8
+#EXTINF:0 tvg-rec="3",Уникум orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9191/index.m3u8
+#EXTINF:0 tvg-rec="3",Baby tv orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9192/index.m3u8
+#EXTINF:0 tvg-rec="3",Малыш orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9193/index.m3u8
+#EXTINF:0 tvg-rec="3",Радость моя orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9194/index.m3u8
+#EXTINF:0 tvg-rec="3",Рыжий orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9195/index.m3u8
+#EXTINF:0 tvg-rec="3",Капитан фантастика orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9196/index.m3u8
+#EXTINF:0 tvg-rec="3",Тамыр orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9198/index.m3u8
+#EXTINF:0 tvg-rec="3",Смайлик ТВ orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9199/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультиландия orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9200/index.m3u8
+#EXTINF:0 tvg-rec="3",Nickelodeon orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9260/index.m3u8
+#EXTINF:0 tvg-rec="3",Cartoon Network orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9261/index.m3u8
+#EXTINF:0 tvg-rec="3",Мультимузыка orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9262/index.m3u8
+#EXTINF:0 tvg-rec="3",В гостях у сказки orig
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/9263/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoons_90
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11001/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoons Short
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11002/index.m3u8
+#EXTINF:0 tvg-rec="7",Cartoons Big
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11003/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Мультсериал HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11025/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kids HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11035/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU Kids+ HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11036/index.m3u8
+#EXTINF:0 tvg-rec="0",BCU Kids 4K
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/17023/index.m3u8
+#EXTINF:0 tvg-rec="7",ВЕСЕЛАЯ КАРУСЕЛЬ HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11057/index.m3u8
+#EXTINF:0 tvg-rec="7",ЕРАЛАШ HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11058/index.m3u8
+#EXTINF:0 tvg-rec="7",Кроха ТВ
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11066/index.m3u8
+#EXTINF:0 tvg-rec="7",KBC-Союз МУЛЬТZAL
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11090/index.m3u8
+#EXTINF:0 tvg-rec="0",VF VHS Cartoon
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11118/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Малыш
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/11123/index.m3u8
+#EXTINF:0 tvg-rec="0",Жара kids HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/14147/index.m3u8
+#EXTINF:0 tvg-rec="0",Сказки Зайки
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/14150/index.m3u8
+#EXTINF:0 tvg-rec="0",Советские мультфильмы
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/14151/index.m3u8
+#EXTINF:0 tvg-rec="0",WOW!TV HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/14168/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV KIDS
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/14173/index.m3u8
+#EXTINF:0 tvg-rec="0",YOSSO TV Союзмульт
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/14178/index.m3u8
+#EXTINF:0 tvg-rec="0",UZ Nu pogody
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/14233/index.m3u8
+#EXTINF:0 tvg-rec="0",Bunny HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/14239/index.m3u8
+#EXTINF:0 tvg-rec="0",LIBERTY piksar
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15092/index.m3u8
+#EXTINF:0 tvg-rec="0",LIBERTY DISNEI
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15093/index.m3u8
+#EXTINF:0 tvg-rec="0",LIBERTY myltiki
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15094/index.m3u8
+#EXTINF:0 tvg-rec="0",LIBERTY BEBIMULT HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/17027/index.m3u8
+#EXTINF:0 tvg-rec="0",Рыжий (Сурдоперевод)
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15280/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель +7 (Владивосток)
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15340/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель +3 (Омск)
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15436/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель +7
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15442/index.m3u8
+#EXTINF:0 tvg-rec="0",Карусель +0 (Элиста)
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15453/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Мультуб
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15520/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Новогодние мультфильмы
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/15523/index.m3u8
+#EXTINF:0 tvg-rec="0",VF Скуби-Ду
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/17007/index.m3u8
+#EXTINF:0 tvg-rec="0",Любимое ТВ HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/16007/index.m3u8
+#EXTINF:0 tvg-rec="0",Fresh Kids HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/16068/index.m3u8
+#EXTINF:0 tvg-rec="0",MS TOONS HD
+#EXTGRP:Детские
+http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/16146/index.m3u8
